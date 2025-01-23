@@ -3,7 +3,7 @@
 
 <div class="container">
     <div class="mt-4 p-2 bg-secondary text-white rounded" style="width: 60%;">
-        <h1>Jason Hong</h1>
+        <h1 class="text-success">Jason Hong</h1>
         <h3>Check your zodiac.</h3>
         <p>
             Enter your birth year to know your Zodiac sign!
